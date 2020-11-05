@@ -1,2 +1,2 @@
 # TheMostHorribleCodeYouWillEverSeeAlsoIncludesThisGodAwfulName
- Fuck you.
+ Have a nice day!
