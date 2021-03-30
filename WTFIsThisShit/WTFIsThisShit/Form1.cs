@@ -238,6 +238,7 @@ namespace WTFIsThisShit {
             }
         }
 
+	// I don't know why, I don't want to know why, I shouldn't have to wonder why, but for whatever reason this stupid code doesn't work unless I do this terribleness
         void saveToFile() {
             string selectedFile = "";
             bool goAhead = false;
